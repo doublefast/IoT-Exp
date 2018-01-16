@@ -1,4 +1,4 @@
-# dlink_shell_poc
+# dlink815_shell_poc
 Dlink shell PoC
 
 Tested on D-Link 815 Version A 1.3
@@ -8,7 +8,7 @@ Works with:
 - DIR-412
 - DIR-600
 - DIR-615
-- DIR-645 https://vuldb.com/?id.7843 (will add this in later... probably)
+- DIR-645
 - DIR-815
 
 ## Example ##
